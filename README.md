@@ -16,7 +16,7 @@ how cyber crime work is essential.
 ![image](https://github.com/user-attachments/assets/d7e39d9f-6144-40cb-a824-430098716f64)
 - Once the process is done, you'll get a decryption key and just copy it. Then after that, press the "Simulate Decryption" button in the main window, once you press it a small window will appear, asking you for the decryption key and you just need to put the key.
 ![image](https://github.com/user-attachments/assets/58f5c891-6fb8-457d-9990-719306f0510c)
-Congrats! You just passed the ransomware simulation and all of your data now are restore :)
+- Congrats! You just passed the ransomware simulation and all of your data now are restore :)
 
 # What you need to run
 - Python Version 3 
